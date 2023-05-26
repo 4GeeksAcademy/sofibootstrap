@@ -1,0 +1,31 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: white;
+
+}
+navbar {
+    display: flex;
+    color:white;
+}
+.icons{
+    margin:3px;
+    padding:13px;
+
+}
+.dropdown {
+    padding:2px;
+}
+
+.redletter {
+    color:red;
+}
+.imgcel{
+    margin: auto;
+} 
+.margincardstop {
+    margin-top: 40px;
+}
+.positionbody {
+    position: absolute;
+    margin-top: 10px;
+}
